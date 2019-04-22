@@ -1,0 +1,9 @@
+<!-- index.wxml -->
+<view class="container">
+  <van-button type="primary">按钮</van-button>
+
+  <view class="box">
+    这
+  </view>
+  
+</view>
