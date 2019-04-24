@@ -14,7 +14,7 @@ npm run dev
 npm run build
 ```
 
-小程序引入组件扩展包步骤
+小程序引入组件扩展包步骤（不需要引入可忽略以下步骤）
 1. 在`package.json`中的`dependencies`字段注明引入的一些小程序组件扩展包，如
 ```
   "dependencies": {
