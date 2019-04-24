@@ -7,10 +7,10 @@ npm install
 # 全局安装依赖
 npm install gulp prettier typescript --global
 
-# 启动代码
+# 启动代码，自动把/src 下less文件，编译到/dist 目录下
 npm run dev
 
-# 打包代码
+# 发体验版
 npm run build
 ```
 
